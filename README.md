@@ -26,3 +26,12 @@
 <br/>
 <img src="https://streak-stats.demolab.com/?user=teresakae&hide_border=true&background=0d0d0d&stroke=f78fb3&ring=ff4d94&fire=ff4d94&currStreakNum=f78fb3&sideNums=f2d0dc&currStreakLabel=ff4d94&sideLabels=f2d0dc&dates=b08a9a" alt="Streak stats" />
 </p>
+
+<h3 align="left">⭑.ᐟ Contribution Arcade:</h3>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/teresakae/teresakae/output/bomberman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/teresakae/teresakae/output/bomberman-contribution-graph.svg">
+  <img alt="bomberman contribution graph" src="https://raw.githubusercontent.com/teresakae/teresakae/output/bomberman-contribution-graph.svg">
+</picture>
+</p>
