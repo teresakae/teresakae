@@ -10,7 +10,6 @@
 
 <h3 align="left">⭑.ᐟ Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/teresakae"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <a href="https://linkedin.com/in/teresakae"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:teresakaena@gmail.com"><img src="https://img.shields.io/badge/Email-f78fb3?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" /></a>
 </p>
